@@ -1,0 +1,847 @@
+﻿nazev_zastavky;poslední_zastavka;zpozdeni;linka
+Most,sídliště ČD;Most,Souš;-22.41666667;3
+Most,Chomutovská;Most,TESCO;-11;3
+Záluží,CHEMOPETROL;Záluží,Zdravotní středisko;-6.454995054;4
+Záluží,CHEMOPETROL;Záluží,Zdravotní středisko;-6.012345679;1
+Litvínov,stadion;Litvínov,u dílen;-5.070175439;4
+Most,Čs.mládeže;Most,Dopravní podnik;-4;1
+Kostelní hřbitov;Jezero Most;-3.741935484;16
+Záluží,Zdravotní středisko;Záluží,CHEMOPETROL;-3.714285714;3
+Havraň,Joseph II;Havraň,Joseph I;-3.636363636;31
+Záluží,Zdravotní středisko;Záluží,CHEMOPETROL;-3.09375;1
+Záluží,Důl Julius IV;Záluží,Zdravotní středisko;-2.833333333;3
+Kahan;Vodárna;-2.526570048;5
+H.Jiřetín,Triola;H.Jiřetín,rozcestí;-2.5;28
+Litvínov,nádraží;Litvínov,Báňské stavby;-1.90625;4
+Litvínov,Báňské stavby;Záluží,areál Hlubina;-1.5;40
+Velebudická;Ovocné sady;-1.5;53
+Čepirohy,zahrádkářská kolonie;Velebudice,rozcestí;-1.26;9
+Litvínov,nádraží;Litvínov,obchodní dům;-1.259587021;4
+Obchodní dům PRIOR;Okresní soud;-1.09375;31
+Dům peněžnictví;Obchodní dům PRIOR;-1.04805915;30
+Litvínov,nádraží;Litvínov,náměstí Míru;-1;8
+Hamr,škola;Hamr,sídliště;-1;21
+Pod Městským hřbitovem;Staré krematorium;-1;51
+Komořany,Nejedlý II;Komořany,Nejedlý I;-0.866666667;12
+Havraň,Joseph vodojem;Havraň,Joseph I;-0.8;31
+Litvínov,stadion;Litvínov,Technické služby;-0.777777778;40
+Černice;Černice,mlékárna;-0.761904762;28
+Komořany,hradlo;Komořany;-0.75;12
+Záluží,Zdravotní středisko;Záluží,CHEMOPETROL;-0.743718593;4
+H.Jiřetín,rozcestí;H.Jiřetín,požární zbrojnice;-0.714285714;28
+Litvínov,Citadela;Litvínov,Koldům;-0.704453441;13
+Skršín,Dobrčice;Skršín,Chrámce;-0.666666667;10
+Záluží,Důl Julius IV;Záluží,Zdravotní středisko;-0.666666667;40
+14.ZŠ;Velebudická;-0.666666667;53
+Litvínov,Koldům;Litvínov,Citadela;-0.666666667;60
+Lom,rozcestí M.Radčice;Lom,náměstí;-0.563636364;13
+Sedlec,obec;Sedlec,pivovar;-0.538461538;10
+Čs.armády;Gymnázium;-0.538461538;20
+Most,Chomutovská;Most,TESCO;-0.533333333;3
+Gymnázium;Zahražany;-0.477272727;20
+H.Jiřetín,požární zbrojnice;H.Jiřetín,rozcestí;-0.454545455;28
+Litvínov,Krušnohor;Litvínov,požární stanice;-0.392307692;14
+Korozluky,obecní úřad;Sedlec,obec;-0.388888889;10
+Pod Lajsníkem;Krym;-0.388888889;12
+Most,TESCO;Most,nádraží;-0.357142857;40
+Nádraží;Sever;-0.351351351;31
+Záluží,areál Hlubina;Záluží,Petrochemie;-0.333333333;4
+Korozluky,obecní úřad;Sedlec,obec;-0.333333333;10
+Havraň,Nemak;Havraň,škola;-0.333333333;31
+Havraň;Havraň,škola;-0.32;31
+D.Jiřetín,hornická kolonie;Komořany,Nejedlý II;-0.266666667;12
+H.Jiřetín,pošta;H.Jiřetín,u nádraží;-0.230769231;28
+1.náměstí;Halasova;-0.222222222;25
+Luna;1.ZŠ;-0.216666667;12
+Čepirohy,okály;Čepirohy,zahrádkářská kolonie;-0.201834862;9
+Most,Dopravní podnik;Most,Severografia;-0.2;1
+Most,rozcestí Kopisty;Most,sídliště ČD;-0.2;1
+Komořany,Nejedlý I;Komořany,hradlo;-0.2;12
+Nemocnice;Pod Resslem;-0.173333333;20
+Rudolice,náměstí;Rudolice,u mostu;-0.168831169;10
+D.Jiřetín,rozcestí;D.Jiřetín,hornická kolonie;-0.15;12
+Dopravní podnik;Čs.mládeže;-0.142857143;31
+Most,Dopravní podnik;Most,Čs.mládeže;-0.14084507;4
+Skršín;Korozluky,obecní úřad;-0.125;10
+Litvínov,náměstí Míru;Litvínov,Máj,věžové domy;-0.125;27
+Záluží,CHEMOPETROL;Záluží,Petrochemie;-0.113636364;1
+H.Jiřetín,pekařství;H.Jiřetín,pošta;-0.111111111;28
+Havraň,Nemak;Havraň,škola;-0.111111111;31
+Litvínov,poliklinika;Litvínov,obchodní dům;-0.111111111;40
+Most,rozcestí Kopisty;Záluží,Důl Julius IV;-0.111111111;40
+Most,Souš;Most,sídliště ČD;-0.111111111;40
+Most,Velebudická;Most,Severografia;-0.1;1
+Benedikt;Zázvorová;-0.085365854;5
+Litvínov,Báňské stavby;Litvínov,nádraží;-0.076923077;3
+Litvínov,poliklinika;Litvínov,Technické služby;-0.074074074;40
+Havraň,škola;Havraň,Saběnice;-0.071428571;31
+Most,Souš;Most,sídliště ČD;-0.069767442;1
+Loučná;Loučná,konečná;-0.064516129;13
+Rudolická,MUS;Rudolice,rozcestí;-0.0625;10
+Aquadrom;1.náměstí;-0.05;18
+Obrnice,koupaliště;Obrnice,škola;-0.046153846;10
+Vtelno;Benedikt;-0.043478261;5
+Patokryje,lávka;Sedlec,pivovar;-0.041666667;10
+Litvínov,poliklinika;Litvínov,obchodní dům;-0.038461538;1
+Třebušice,DTS Vrbenský;Komořany;-0.033333333;12
+Litvínov,nádraží;Litvínov,obchodní dům;-0.032258065;3
+1.ZŠ;Pod Resslem;-0.030769231;12
+RICO;Děkanský kostel;-0.029411765;16
+Aquadrom;Kahan;-0.028571429;25
+Litvínov,nádraží;Litvínov,náměstí Míru;-0.027027027;14
+Kahan;Velebudická;-0.026548673;25
+Obrnice,škola;Obrnice,koupaliště;-0.025;10
+Pod Lajsníkem;Krym;-0.025;12
+Litvínov,poliklinika;Litvínov,Partyzán;-0.018518519;23
+Okresní soud;Obchodní dům PRIOR;-0.012195122;20
+Litvínov,nádraží;Litvínov,Báňské stavby;0;1
+Most,obchodní dům PRIOR;Most,1. náměstí;0;1
+Most,sportovní hala;Most,obchodní dům PRIOR;0;1
+Litvínov,poliklinika;Litvínov,Technické služby;0;1
+Most,Severografia;Most,Velebudická;0;1
+Most,TESCO;Most,Chomutovská;0;3
+Záluží,Petrochemie;Záluží,CHEMOPETROL;0;3
+Litvínov,stadion;Litvínov,u dílen;0;3
+Litvínov,Technické služby;Litvínov,stadion;0;3
+Litvínov,u dílen;Litvínov,stadion;0;3
+Záluží,CHEMOPETROL;Záluží,Petrochemie;0;3
+Litvínov,Jiráskova;Litvínov,nádraží;0;8
+Speciální škola;Velebudice,škola;0;10
+Patokryje,lávka;Sedlec,pivovar;0;10
+Skršín,Chrámce;Skršín,Dobrčice;0;10
+14.ZŠ;Kahan;0;12
+Rudolická,MUS;Pod Lajsníkem;0;12
+Komořany,KSK;Komořany,Obránců míru;0;12
+Komořany,Nejedlý II;D.Jiřetín,hornická kolonie;0;12
+Souš,Matylda;Souš,Vrbenský I;0;12
+Dopravní podnik;Pionýrů;0;12
+Osek,Hrdlovská;Osek,autokempink;0;13
+Janov,horní část;Osada Poslušnost;0;13
+H.Jiřetín,u nádraží;Černice,mlékárna;0;14
+Janov;H.Jiřetín,rozcestí;0;14
+Litvínov,náměstí Míru;Litvínov,Máj,věžové domy;0;14
+Nemocnice;Pod Resslem;0;20
+Pod Resslem;Široký vrch;0;20
+Gymnázium;Muzeum;0;20
+Janov,konečná;Janov,sportovní hala;0;21
+Janov,pekárny;Janov;0;21
+Hamr,sídliště;Hamr;0;21
+Horní Lom;Loučná;0;21
+Janov,blok D3;Janov,škola;0;21
+Janov,sportovní hala;Janov,blok D3;0;21
+Litvínov,Koldům;Horní Lom;0;21
+Litvínov,sportovní škola;Litvínov,Citadela;0;21
+Loučná;Loučná,konečná;0;21
+Souš,Matylda;Souš,Finské domky;0;22
+Meziboří,radnice;Litvínov,Partyzán;0;23
+1.náměstí;Halasova;0;25
+Litvínov,nádraží;Litvínov,náměstí Míru;0;27
+Černice,mlékárna;Černice;0;28
+H.Jiřetín, P.Holého;H.Jiřetín,u nádraží;0;28
+H.Jiřetín,pošta;H.Jiřetín,pekařství;0;28
+H.Jiřetín,požární zbrojnice;H.Jiřetín,rozcestí;0;28
+H.Jiřetín,u nádraží;Černice,mlékárna;0;28
+Černice,mlékárna;Černice;0;28
+D.Jiřetín,rozcestí;H.Jiřetín,pekařství;0;28
+H.Jiřetín,rozcestí;H.Jiřetín,Triola;0;28
+H.Jiřetín,u nádraží;Černice,mlékárna;0;28
+Nemilkov,rozcestí;Havraň;0;31
+Sever;Nádraží;0;31
+Čs.mládeže;1.náměstí;0;31
+Havraň,Joseph vodojem;Havraň,Joseph II;0;31
+Nemilkov,rozcestí;Bylany,DOMES;0;31
+Čepirohy,areál ALTAMEX;Čepirohy,Hrabák;0;31
+Havraň,Saběnice;Havraň,Nemak;0;31
+Litvínov,Technické služby;Litvínov,poliklinika;0;40
+Most,Čs.mládeže;Most,1. náměstí;0;40
+Most,Dopravní podnik;Most,Severografia;0;40
+Most,sportovní hala;Most,obchodní dům PRIOR;0;40
+Záluží,areál Hlubina;Záluží,CHEMOPETROL;0;40
+Záluží,Petrochemie;Záluží,CHEMOPETROL;0;40
+Litvínov,Báňské stavby;Litvínov,nádraží;0;40
+Litvínov,nádraží;Litvínov,Báňské stavby;0;40
+Litvínov,obchodní dům;Litvínov,poliklinika;0;40
+Litvínov,stadion;Litvínov,Technické služby;0;40
+Litvínov,u dílen;Litvínov,Citadela;0;40
+Most,Dopravní podnik;Most,Čs.mládeže;0;40
+Most,Severografia;Most,Velebudická;0;40
+Most,Chomutovská;Most,Souš;0;40
+Dům peněžnictví;Speciální škola;0;50
+Sportovní hala;Obchodní dům PRIOR;0;50
+Aquadrom;1.náměstí;0;50
+Kahan;Aquadrom;0;50
+Speciální škola;14.ZŠ;0;50
+10.ZŠ;Dopravní podnik;0;51
+Dopravní podnik;Pionýrů;0;51
+Pionýrů;Průběžná;0;51
+Průběžná;Pod Městským hřbitovem;0;51
+Kahan;Vodárna;0;53
+Pod Lajsníkem;Rudolická,MUS;0;53
+Vodárna;18.ZŠ;0;53
+Hamr;Janov,Krušnohor;0;60
+Horní Lom;Litvínov,Koldům;0;60
+Litvínov,mototechna;Litvínov,Máj;0;60
+Litvínov,požární stanice;Litvínov,Chudeřín;0;60
+Loučná;Horní Lom;0;60
+Loučná,konečná;Loučná;0;60
+Osek,kolonie;Osek,zbrojnice;0;60
+Osek,zbrojnice;Osek,náměstí;0;60
+Litvínov,mototechna;Litvínov,Máj;0;60
+Osek,zbrojnice;Osek,kolonie;0;60
+Janov,sportovní hala;Janov,blok D3;0;60
+Litvínov,Máj,věžové domy;Litvínov,mototechna;0;60
+Litvínov,Máj,věžové domy;Litvínov,Máj;0;60
+Dům peněžnictví;Aquadrom;0.00621118;5
+Aquadrom;1.náměstí;0.008064516;30
+Most,Souš;Most,sídliště ČD;0.013157895;1
+1.náměstí;Obchodní dům PRIOR;0.016129032;18
+Velebudická;Kahan;0.016393443;25
+Most,1. náměstí;Most,Čs.mládeže;0.024137931;4
+Litvínov,Technické služby;Litvínov,stadion;0.025;1
+RICO;Děkanský kostel;0.025;16
+Krym;Sukova,blok 501;0.025;22
+J.Skupy;Nemocnice;0.027522936;22
+Most,TESCO;Most,nádraží;0.027777778;2
+J.Skupy;Nemocnice;0.03030303;22
+Litvínov,Máj,věžové domy;Litvínov,Krušnohor;0.03030303;27
+Obchodní dům PRIOR;1.náměstí;0.03030303;31
+Chanov,otočka;Most,čistící stanice;0.030769231;10
+Komořany,Obránců míru;Komořany,KSK;0.03125;12
+Zd.Štěpánka;Dopravní podnik;0.034482759;12
+Litvínov,mototechna;Litvínov,sportovní škola;0.035087719;13
+Gymnázium;Čs.armády;0.036144578;20
+Aquadrom;1.náměstí;0.036410923;5
+Benedikt;Vtelno;0.037037037;5
+J.Skupy;Luna;0.037037037;17
+Litvínov,nádraží;Litvínov,náměstí Míru;0.04;13
+Pod Lajsníkem;Rudolická,MUS;0.041666667;22
+Litvínov,u dílen;Litvínov,Citadela;0.043165468;4
+Most,obchodní dům PRIOR;Most,sportovní hala;0.045454545;40
+Sukova,blok 501;Sukova,blok 508;0.046875;22
+Nádraží;Rudolická,MUS;0.051612903;10
+Sukova,blok 508;Okresní soud;0.052631579;22
+Nemocnice;Pod Resslem;0.054054054;22
+Pod Resslem;Autodrom;0.055555556;12
+Benedikt;Vtelno;0.057142857;25
+Lom,Červený kříž;Lom,škola;0.057692308;13
+Pod Lajsníkem;Rudolická,MUS;0.059961315;5
+Litvínov,obchodní dům;Litvínov,poliklinika;0.0625;3
+Most,Čs.mládeže;Most,1. náměstí;0.063829787;2
+Sedlec,pivovar;Patokryje,lávka;0.066666667;10
+Rudolická,MUS;Pod Lajsníkem;0.069767442;20
+Most,Čs.mládeže;Most,Dopravní podnik;0.071090047;4
+Most,1. náměstí;Most,Čs.mládeže;0.071428571;40
+Záluží,Zdravotní středisko;Záluží,CHEMOPETROL;0.071428571;40
+Luna;1.ZŠ;0.075117371;17
+Litvínov,mototechna;Litvínov,sportovní škola;0.076502732;13
+Kahan;14.ZŠ;0.077669903;17
+Most,Souš;Most,sídliště ČD;0.078947368;3
+Litvínov,Janáčkova;Hamr,škola;0.081081081;14
+Sukova,blok 501;Sukova,blok 508;0.081967213;20
+Litvínov,požární stanice;Litvínov,Chudeřín;0.083333333;15
+Sever;Nádraží;0.083333333;16
+Sukova,blok 508;Sukova,blok 501;0.083916084;22
+14.ZŠ;Kahan;0.084639498;17
+Hamr;Janov,Krušnohor;0.090909091;60
+Most,1. náměstí;Most,Čs.mládeže;0.09375;1
+H.Jiřetín,rozcestí;H.Jiřetín,požární zbrojnice;0.095238095;14
+Most,Velebudická;Most,Velebudická škola;0.095890411;2
+Aquadrom;Kahan;0.095890411;5
+Litvínov,Technické služby;Litvínov,poliklinika;0.097560976;1
+Zahražany;Široký vrch;0.098765432;20
+Most,Čs.mládeže;Most,1. náměstí;0.09929078;2
+J.Skupy;Nemocnice;0.100671141;20
+Osada Poslušnost;Křížatky;0.101449275;13
+Pod Lajsníkem;Rudolická,MUS;0.104225352;22
+Krym;Sukova,blok 501;0.105263158;20
+Obrnice,sídliště;Obrnice,škola;0.107692308;10
+Litvínov,Janáčkova;Hamr,škola;0.108108108;14
+H.Jiřetín,pošta;H.Jiřetín,u nádraží;0.110344828;14
+Litvínov,nádraží;Litvínov,náměstí Míru;0.110671937;13
+Krym;Sukova,blok 558;0.111111111;12
+Litvínov,Šumná,průmyslový areál;Litvínov,Šumná;0.111111111;27
+Most,TESCO;Most,nádraží;0.111111111;40
+Luna;J.Skupy;0.113207547;12
+Litvínov,požární stanice;Litvínov,Chudeřín;0.113924051;14
+Hamr,škola;Hamr,sídliště;0.116666667;15
+Most,Čs.mládeže;Most,1. náměstí;0.117647059;1
+Komořany,Nejedlý I;Komořany,Nejedlý II;0.117647059;12
+Sever;Nádraží;0.119047619;12
+Litvínov,stadion;Litvínov,u dílen;0.12;1
+Sukova,blok 558;14.ZŠ;0.12;12
+Dům peněžnictví;1.náměstí;0.12086514;30
+Sukova,blok 501;Krym;0.124183007;20
+Rudolice,rozcestí;Rudolická,MUS;0.125;10
+Souš,Vrbenský I;Třebušice,DTS Vrbenský;0.125;12
+Hamr,škola;Hamr,sídliště;0.125;14
+Rudolice,u mostu;Rudolice,náměstí;0.125;53
+Benedikt;Zázvorová;0.125;53
+Černice;Černice,mlékárna;0.126666667;14
+Obchodní dům PRIOR;J.Skupy;0.127659574;12
+Lom,Horní Lom,rozcestí;Horní Lom;0.129032258;13
+Most,Čs.mládeže;Most,Dopravní podnik;0.129707113;4
+Obrnice,sídliště;Obrnice,škola;0.130434783;10
+1.náměstí;Obchodní dům PRIOR;0.132462687;5
+Souš,Národního odboje;Souš,Finské domky;0.135802469;22
+Okresní soud;Obchodní dům PRIOR;0.137254902;16
+Rudolická,MUS;Pod Lajsníkem;0.14084507;22
+Vtelenská;Zázvorová;0.142076503;5
+Obchodní dům PRIOR;1.náměstí;0.142857143;5
+Ervěnice,závod ČSA;Komořany;0.142857143;12
+H.Jiřetín,u nádraží;H.Jiřetín,pošta;0.142857143;14
+H.Jiřetín,pekařství;D.Jiřetín,rozcestí;0.142857143;28
+Záluží,CHEMOPETROL;Záluží,Petrochemie;0.142857143;40
+Okružní,Shell;18.ZŠ;0.149253731;5
+Záluží,Důl Julius IV;Most,rozcestí Kopisty;0.151515152;3
+Okresní soud;Sukova,blok 508;0.151515152;5
+České Zlatníky;Obrnice,škola;0.152173913;10
+Křížatky;Osada Poslušnost;0.153846154;13
+Velebudice,škola;Velebudická;0.153846154;25
+Rudolická,MUS;Nádraží;0.155279503;20
+Sukova,blok 508;Okresní soud;0.155555556;20
+Nádraží;Sever;0.15625;16
+Pod Resslem;Autodrom;0.158730159;22
+Rudolice,rozcestí;Rudolická,MUS;0.16;10
+Široký vrch;Zahražany;0.161849711;17
+Záluží,Zdravotní středisko;Záluží,Důl Julius IV;0.163265306;1
+Litvínov,obchodní dům;Litvínov,poliklinika;0.163265306;1
+Litvínov,sportovní škola;Litvínov,Citadela;0.165413534;13
+Litvínov,obchodní dům;Litvínov,nádraží;0.166666667;3
+Čepirohy,Hrabák;Čepirohy,závodní klub;0.166666667;31
+Záluží,CHEMOPETROL;Záluží,Petrochemie;0.166666667;40
+Ovocné sady;Benedikt;0.166666667;53
+Nádraží;Rudolická,MUS;0.166666667;53
+Obchodní dům PRIOR;Okresní soud;0.168539326;22
+Souš,Tvrzova;Autodrom;0.169811321;12
+Litvínov,Máj;Litvínov,mototechna;0.169811321;13
+Široký vrch;Zahražany;0.170068027;20
+Sever;Nádraží;0.170212766;31
+Rudolická,MUS;Nádraží;0.174444444;30
+Čepirohy,závodní klub;Čepirohy,Hrabák;0.175;31
+Litvínov,Máj,věžové domy;Litvínov,Krušnohor;0.176470588;14
+Speciální škola;1.náměstí;0.17721519;17
+Most,obchodní dům PRIOR;Most,1. náměstí;0.177664975;4
+Zd.Štěpánka;Dopravní podnik;0.177777778;17
+Litvínov,Janáčkova;Hamr,škola;0.178571429;15
+Litvínov,Krušnohor;Litvínov,Máj,věžové domy;0.178571429;27
+Lom,náměstí;Lom,Červený kříž;0.183333333;13
+Obchodní dům PRIOR;J.Skupy;0.185053381;20
+Záluží,Zdravotní středisko;Záluží,Důl Julius IV;0.185064935;4
+H.Jiřetín, P.Holého;H.Jiřetín,požární zbrojnice;0.190082645;14
+Dopravní podnik;Velebudice,rozcestí;0.195121951;31
+Záluží,Důl Julius IV;Most,rozcestí Kopisty;0.2;40
+18.ZŠ;Vtelenská;0.200626959;5
+Most,sídliště ČD;Most,Souš;0.210526316;1
+Litvínov,nádraží;Litvínov,obchodní dům;0.216216216;1
+D.Jiřetín,hornická kolonie;D.Jiřetín,rozcestí;0.216216216;12
+Nemocnice;Pod Resslem;0.216216216;22
+Litvínov,sportovní škola;Litvínov,Citadela;0.222972973;13
+Litvínov,Chudeřín;Litvínov,Janáčkova;0.224299065;14
+Litvínov,Technické služby;Litvínov,stadion;0.22519084;4
+Rudolická,MUS;Nádraží;0.225519288;10
+Dům peněžnictví;Aquadrom;0.225806452;25
+Kahan;Zd.Štěpánka;0.226415094;17
+Pod Resslem;Autodrom;0.22826087;22
+Rudolická,MUS;Nádraží;0.229508197;12
+Sukova,blok 558;14.ZŠ;0.230496454;30
+Litvínov,Technické služby;Litvínov,poliklinika;0.233333333;3
+Litvínov,Krušnohor;Litvínov,Šumná,Stavařov;0.234042553;27
+Obchodní dům PRIOR;Okresní soud;0.236051502;5
+Krym;Sukova,blok 558;0.240740741;12
+Komořany;Komořany,tábor 7;0.241666667;12
+Okresní soud;Sever;0.243902439;31
+Loučná,konečná;Loučná;0.244047619;13
+Most,1. náměstí;Most,Čs.mládeže;0.244258873;2
+Most,1. náměstí;Most,obchodní dům PRIOR;0.245614035;2
+Okresní soud;Sever;0.25;12
+Osek,autokempink;Loučná,konečná;0.25;13
+Litvínov,Šumná,Stavařov;Litvínov,Krušnohor;0.25;27
+Havraň,Joseph I;Havraň,Joseph II;0.25;31
+Most,Velebudická škola;Most,Severografia;0.25;40
+Rudolice,rozcestí;Rudolice,u mostu;0.25;53
+Litvínov,náměstí Míru;Litvínov,Bílý sloup;0.25;60
+Most,čistící stanice;Chanov,otočka;0.252525253;10
+Litvínov,Koldům;Litvínov,Citadela;0.255474453;13
+Sukova,blok 501;Sukova,blok 508;0.256;5
+Krym;Pod Lajsníkem;0.256;22
+Souš,Národního odboje;Souš,Finské domky;0.257142857;12
+Souš,Národního odboje;Souš,Tvrzova;0.261904762;12
+Sukova,blok 508;Sukova,blok 501;0.263157895;20
+Záluží,Důl Julius IV;Most,rozcestí Kopisty;0.263829787;4
+Záluží,Zdravotní středisko;Záluží,Důl Julius IV;0.266666667;40
+Pionýrů;Čepirohy,okály;0.269230769;9
+Havraň,Joseph I;Havraň,Joseph II;0.272727273;31
+Autodrom;Souš,Tvrzova;0.275;12
+Litvínov,Chudeřín;Litvínov,Janáčkova;0.275;14
+Janov,sportovní hala;Janov,konečná;0.275862069;13
+Litvínov,náměstí Míru;Litvínov,nádraží;0.275862069;27
+Litvínov,Koldům;Horní Lom;0.276595745;13
+Litvínov,Báňské stavby;Litvínov,nádraží;0.277777778;1
+Velebudice,rozcestí;Čepirohy,závodní klub;0.28;31
+J.Skupy;Obchodní dům PRIOR;0.280487805;20
+Most,sídliště ČD;Most,Souš;0.282051282;4
+Lom,městský hřbitov;Lom,rozcestí M.Radčice;0.285714286;13
+Hamr,škola;Hamr,sídliště;0.285714286;15
+Hamr,sídliště;Hamr;0.285714286;60
+14.ZŠ;Kahan;0.287790698;30
+Obchodní dům PRIOR;Okresní soud;0.289617486;20
+Souš,Tvrzova;Souš,Národního odboje;0.291139241;22
+Most,sportovní hala;Most,zimní stadion;0.293103448;1
+14.ZŠ;Speciální škola;0.293333333;17
+Zd.Štěpánka;Kahan;0.293478261;17
+Obrnice,koupaliště;Obrnice,škola;0.29787234;10
+Most,obchodní dům PRIOR;Most,sportovní hala;0.3;1
+1.náměstí;Čs.mládeže;0.3;31
+J.Skupy;Nemocnice;0.300813008;30
+Rudolická,MUS;Pod Lajsníkem;0.303448276;5
+Kahan;Aquadrom;0.307692308;5
+Osek,zbrojnice;Osek,kolonie;0.307692308;13
+Litvínov,obchodní dům;Litvínov,nádraží;0.307692308;40
+Pod Městským hřbitovem;Halasova;0.311740891;16
+Čepirohy,Hrabák;Čepirohy,areál ALTAMEX;0.3125;31
+Litvínov,Báňské stavby;Záluží,areál Hlubina;0.315789474;1
+Nádraží;Rudolická,MUS;0.317647059;20
+Obchodní dům PRIOR;J.Skupy;0.318240621;30
+Zahražany;Gymnázium;0.319148936;20
+Záluží,Petrochemie;Záluží,CHEMOPETROL;0.321428571;1
+Vodárna;Kahan;0.325443787;5
+Litvínov,obchodní dům;Litvínov,nádraží;0.326530612;1
+Sukova,blok 501;Krym;0.326923077;22
+14.ZŠ;Sukova,blok 558;0.329289428;30
+Most,Souš;Most,Chomutovská;0.333333333;3
+14.ZŠ;Kahan;0.333333333;12
+Městský hřbitov;Staré krematorium;0.333333333;16
+Litvínov,Šumná,Stavařov;Litvínov,Šumná,průmyslový areál;0.333333333;27
+Litvínov,u dílen;Litvínov,stadion;0.333333333;40
+Most,Severografia;Most,Dopravní podnik;0.333333333;40
+18.ZŠ;Sukova,blok 558;0.333333333;53
+Kino Kosmos;Dům peněžnictví;0.333333333;53
+Sukova,blok 558;Krym;0.333333333;53
+Osek,autokempink;Osek,náměstí;0.333333333;60
+Litvínov,Bílý sloup;Litvínov,požární stanice;0.333333333;60
+Litvínov,Janáčkova;Hamr,škola;0.333333333;60
+Litvínov,sportovní škola;Litvínov,Citadela;0.333333333;60
+Černice, mlékárna;Černice;0.338461538;14
+H.Jiřetín,požární zbrojnice;H.Jiřetín,rozcestí;0.339449541;14
+1.náměstí;Obchodní dům PRIOR;0.339849624;30
+Souš,Tvrzova;Souš,Národního odboje;0.340425532;12
+Litvínov,Citadela;Litvínov,sportovní škola;0.341935484;13
+1.náměstí;Čs.mládeže;0.346153846;31
+Sukova,blok 508;Sukova,blok 501;0.352;5
+Chanov,otočka;Obrnice,koupaliště;0.355555556;10
+Vodárna;Kahan;0.362068966;5
+Hamr,škola;Hamr,sídliště;0.36318408;13
+Rudolice,rozcestí;Rudolice,u mostu;0.363636364;10
+Horní Lom;Loučná;0.363636364;13
+Lom,Horní Lom,rozcestí;Loučná;0.363636364;13
+Litvínov,Krušnohor;Litvínov,požární stanice;0.363636364;15
+Benedikt;Zázvorová;0.366666667;5
+Komořany,tábor 7;Komořany;0.366666667;12
+Obchodní dům PRIOR;1.náměstí;0.369294606;17
+Krym;Pod Lajsníkem;0.374045802;20
+Krym;Sukova,blok 558;0.374655647;30
+Janov,pekárny;Janov;0.375;14
+Komořany,tábor 7;Komořany,KSK;0.378378378;12
+Pod Lajsníkem;Krym;0.378378378;20
+Nádraží;Rudolická,MUS;0.37962963;22
+Čs.armády;Sportovní hala;0.381818182;17
+J.Skupy;Nemocnice;0.384030418;30
+Litvínov,u dílen;Litvínov,stadion;0.384615385;1
+Most,Souš;Most,zimní stadion;0.384615385;4
+Lom,Geologický průzkum;Lom,Horní Lom,rozcestí;0.384615385;13
+Most,TESCO;Most,zimní stadion;0.38647343;2
+Most,obchodní dům PRIOR;Most,sportovní hala;0.388059701;2
+Rudolická,MUS;Nádraží;0.388349515;22
+Kahan;Aquadrom;0.388888889;18
+Speciální škola;14.ZŠ;0.389380531;17
+Dům peněžnictví;Speciální škola;0.39047619;17
+Rudolická,MUS;Pod Lajsníkem;0.391304348;5
+Litvínov,obchodní dům;Litvínov,poliklinika;0.399371069;4
+Most,zimní stadion;Most,sportovní hala;0.4;1
+Litvínov,u dílen;Litvínov,Citadela;0.4;1
+Hamr,škola;Hamr,sídliště;0.4;14
+Litvínov,Šumná;Litvínov,Šumná,průmyslový areál;0.4;27
+Litvínov,Technické služby;Litvínov,stadion;0.4;40
+18.ZŠ;Vodárna;0.402061856;5
+Halasova;1.náměstí;0.402985075;16
+Litvínov,Báňské stavby;Záluží,areál Hlubina;0.403141361;4
+Okresní soud;Obchodní dům PRIOR;0.403846154;22
+Nádraží;Rudolická,MUS;0.404040404;30
+Obrnice,škola;Obrnice,sídliště;0.404761905;10
+Hamr,škola;Hamr,sídliště;0.409448819;13
+Obchodní dům PRIOR;J.Skupy;0.410526316;22
+Litvínov,Šumná,průmyslový areál;Litvínov,Šumná;0.411764706;27
+Litvínov,Partyzán;Meziboří,městský úřad;0.412140575;23
+Záluží,Petrochemie;Záluží,areál Hlubina;0.413043478;1
+Havraň,škola;Havraň;0.413793103;31
+Krym;Sukova,blok 501;0.417266187;5
+Záluží,Důl Julius IV;Záluží,Zdravotní středisko;0.418367347;4
+Krym;Pod Lajsníkem;0.418918919;5
+Obchodní dům PRIOR;1.náměstí;0.421836228;30
+Obrnice,koupaliště;Chanov,otočka;0.426229508;10
+J.Skupy;Obchodní dům PRIOR;0.426470588;12
+Most,Dopravní podnik;Most,Severografia;0.428571429;2
+Kahan;Zd.Štěpánka;0.428571429;12
+H.Jiřetín,pekařství;H.Jiřetín,pošta;0.428571429;14
+Most,obchodní dům PRIOR;Most,1. náměstí;0.428571429;40
+Litvínov,Máj;Litvínov,Máj,věžové domy;0.428571429;60
+Velebudice,rozcestí;Dopravní podnik;0.429447853;9
+Autodrom;Pod Resslem;0.431818182;12
+Nové krematorium;Za Krematoriem;0.433628319;16
+Most,Severografia;Most,Dopravní podnik;0.435483871;2
+Záluží,Petrochemie;Záluží,areál Hlubina;0.444444444;3
+Obchodní dům PRIOR;J.Skupy;0.445205479;17
+Hamr,sídliště;Hamr;0.448818898;13
+Most,Dopravní podnik;Zd.Štěpánka;0.45;17
+Dům peněžnictví;Obchodní dům PRIOR;0.450704225;17
+1.ZŠ;Luna;0.452054795;30
+Okresní soud;Sukova,blok 508;0.457364341;5
+Obchodní dům PRIOR;1.náměstí;0.459459459;16
+Havraň;Nemilkov,rozcestí;0.461538462;31
+Osek,autokempink;Osek,náměstí;0.463414634;13
+Lom,škola;Lom,Geologický průzkum;0.465517241;13
+Loučná,konečná;Loučná;0.469135802;13
+Obchodní dům PRIOR;Okresní soud;0.471910112;12
+Souš,Finské domky;Souš,Národního odboje;0.483870968;22
+1.ZŠ;Luna;0.484848485;12
+Most,rozcestí Kopisty;Most,sídliště ČD;0.485981308;4
+Jezero Most;Kostelní hřbitov;0.486486486;16
+Lom,škola;Lom,Červený kříž;0.487804878;13
+Obrnice,koupaliště;České Zlatníky;0.488636364;10
+J.Skupy;Obchodní dům PRIOR;0.490196078;12
+Dopravní podnik;Zd.Štěpánka;0.49068323;17
+Záluží,areál Hlubina;Záluží,Petrochemie;0.5;1
+Litvínov,poliklinika;Litvínov,obchodní dům;0.5;3
+Komořany,hradlo;Komořany,Nejedlý I;0.5;12
+Komořany,DUK;Třebušice,DTS Vrbenský;0.5;12
+Litvínov,nádraží;Litvínov,náměstí Míru;0.5;15
+TESCO;Zimní stadion;0.5;16
+Hamr;Janov,pekárny;0.5;21
+Záluží,CHEMOPETROL;Záluží,Petrochemie;0.5;21
+Autodrom;Souš,Tvrzova;0.5;22
+Benedikt;Obrnice,odb.Vtelno;0.5;25
+Litvínov,nádraží;Litvínov,Báňské stavby;0.5;40
+Most,sídliště ČD;Most,rozcestí Kopisty;0.5;40
+Most,Chomutovská;Most,sportovní hala;0.5;40
+Osek,náměstí;Osek,zbrojnice;0.5;60
+Hamr,škola;Hamr,sídliště;0.5;60
+Litvínov,Citadela;Litvínov,3.ZŠ;0.5;60
+Loučná,konečná;Osek,autokempink;0.5;60
+Sever;Okresní soud;0.509090909;12
+H.Jiřetín,požární zbrojnice;H.Jiřetín, P.Holého;0.509433962;14
+H.Jiřetín,pošta;H.Jiřetín,pekařství;0.512820513;14
+Halasova;Městský hřbitov;0.513513514;16
+Rudolická,MUS;Pod Lajsníkem;0.513636364;30
+Luna;J.Skupy;0.516853933;30
+Pod Lajsníkem;Krym;0.51980198;30
+Most,TESCO;Most,Chomutovská;0.52173913;3
+H.Jiřetín, P.Holého;H.Jiřetín,u nádraží;0.52173913;14
+Litvínov,Krušnohor;Litvínov,Máj,věžové domy;0.523809524;15
+Osada Poslušnost;Janov,horní část;0.525;13
+Litvínov,náměstí Míru;Litvínov,nádraží;0.525;14
+Pod Lajsníkem;Rudolická,MUS;0.531400966;30
+Janov,horní část;Janov,sportovní hala;0.531914894;13
+Havraň,škola;Havraň,Nemak;0.538461538;31
+Litvínov,Janáčkova;Hamr,škola;0.538461538;60
+Sukova,blok 558;Krym;0.540669856;30
+Litvínov,Chudeřín;Litvínov,Janáčkova;0.545454545;60
+Litvínov,nádraží;Litvínov,Bílý sloup;0.545454545;60
+Meziboří,stadion;Meziboří,sanatorium;0.552631579;23
+Čepirohy,závodní klub;Velebudice,rozcestí;0.555555556;31
+Hamr,sídliště;Hamr;0.558139535;14
+Osek,Národní dům;Osek,autokempink;0.56097561;13
+Komořany,KSK;Komořany,tábor 7;0.563380282;12
+Janov,blok D3;Janov,sportovní hala;0.564971751;13
+Hamr,sídliště;Hamr,škola;0.565217391;14
+Sedlec,pivovar;Sedlec,obec;0.571428571;10
+Čs.mládeže;Dopravní podnik;0.571428571;31
+Loučná;Horní Lom;0.584158416;13
+Nádraží;Sever;0.58490566;12
+Janov,škola;Janov,blok D3;0.588785047;15
+Záluží,Důl Julius IV;Záluží,Zdravotní středisko;0.590909091;1
+Most,Dopravní podnik;Most,Čs.mládeže;0.591836735;2
+Most,nádraží;Most,TESCO;0.6;40
+Hamr,škola;Hamr,sídliště;0.6;60
+Janov,Krušnohor;Janov,škola;0.604651163;15
+Most,zimní stadion;Most,sportovní hala;0.606382979;2
+Sukova,blok 508;Okresní soud;0.608108108;5
+Litvínov,požární stanice;Litvínov,Krušnohor;0.609756098;15
+Most,sportovní hala;Most,obchodní dům PRIOR;0.612440191;2
+Litvínov,Jiráskova;Litvínov,nádraží;0.615384615;8
+Most,obchodní dům PRIOR;Most,1. náměstí;0.61722488;2
+Litvínov,Máj,věžové domy;Litvínov,Krušnohor;0.622222222;15
+Most,rozcestí Kopisty;Záluží,Důl Julius IV;0.625;1
+Most,nádraží;Most,TESCO;0.625;3
+Vtelenská;18.ZŠ;0.625;5
+Most,Souš;Most,Chomutovská;0.625;40
+Rudolice,u mostu;Rudolice,náměstí;0.633333333;10
+Most,zimní stadion;Most,Souš;0.636363636;1
+Litvínov,Janáčkova;Hamr,škola;0.642857143;15
+D.Jiřetín,odb.Centrum;Záluží,CHEMOPETROL;0.642857143;28
+Souš,Finské domky;Souš,Národního odboje;0.647058824;22
+Litvínov,Chudeřín;Litvínov,Janáčkova;0.65;60
+Litvínov,Máj;Litvínov,náměstí Míru;0.659517426;13
+Most,1. náměstí;Most,obchodní dům PRIOR;0.666666667;1
+Osek,zbrojnice;Osek,kolonie;0.666666667;13
+14.ZŠ;Kahan;0.666666667;50
+Hamr,sídliště;Hamr,škola;0.666666667;60
+Meziboří,sanatorium;Meziboří,radnice;0.669642857;23
+Široký vrch;Pod Resslem;0.670454545;20
+Sportovní hala;Obchodní dům PRIOR;0.671111111;17
+Most,čistící stanice;Rudolice,u mostu;0.672131148;10
+Záluží,CHEMOPETROL;Záluží,Petrochemie;0.676;4
+Třebušice,DTS Vrbenský;Souš,Vrbenský I;0.677419355;12
+Litvínov,Bílý sloup;Litvínov,požární stanice;0.681506849;13
+Litvínov,stadion;Litvínov,Technické služby;0.681818182;3
+Nádraží;Rudolická,MUS;0.687747036;5
+Rudolice,rozcestí;Most,čistící stanice;0.689655172;10
+Most,sídliště ČD;Most,rozcestí Kopisty;0.692307692;3
+Lom,Horní Lom,rozcestí;Lom,Geologický průzkum;0.7;13
+Sukova,blok 501;Krym;0.701754386;5
+Rudolice,u mostu;Most,čistící stanice;0.705882353;10
+Komořany;Komořany,hradlo;0.722222222;12
+Janov,blok D3;Janov,sportovní hala;0.736842105;15
+Kahan;Aquadrom;0.7421875;30
+Litvínov,náměstí Míru;Litvínov,nádraží;0.747795414;13
+Most,Čs.mládeže;Most,Dopravní podnik;0.75;40
+Litvínov,Bílý sloup;Litvínov,nádraží;0.756097561;13
+Litvínov,stadion;Litvínov,Technické služby;0.76;1
+Okresní soud;Obchodní dům PRIOR;0.760416667;16
+Souš,Vrbenský I;Souš,Matylda;0.764705882;12
+Benedikt;Zázvorová;0.769230769;5
+Souš,Matylda;Souš,Národního odboje;0.769230769;12
+Muzeum;Gymnázium;0.791666667;20
+Lom,Geologický průzkum;Lom,škola;0.793103448;13
+1.ZŠ;Pod Resslem;0.793103448;17
+Most,sportovní hala;Most,zimní stadion;0.794759825;2
+Pod Resslem;Nemocnice;0.798882682;20
+Most,1. náměstí;Most,obchodní dům PRIOR;0.8;40
+Obchodní dům PRIOR;1.náměstí;0.803030303;16
+Krym;Pod Lajsníkem;0.810126582;30
+Kahan;14.ZŠ;0.816239316;30
+Litvínov,náměstí Míru;Litvínov,nádraží;0.818181818;60
+Ovocné sady;Velebudice,škola;0.826446281;25
+Litvínov,u dílen;Litvínov,stadion;0.833333333;3
+Hamr;Janov,pekárny;0.833333333;14
+Okresní soud;Obchodní dům PRIOR;0.833333333;31
+Zimní stadion;RICO;0.836065574;16
+Benedikt;Ovocné sady;0.837563452;25
+Most,Severografia;Most,Dopravní podnik;0.84;1
+Velebudice,rozcestí;Dopravní podnik;0.840909091;31
+Osek,náměstí;Osek,autokempink;0.846153846;13
+Okresní soud;Sukova,blok 508;0.848101266;20
+Litvínov,Janáčkova;Hamr,škola;0.848837209;13
+Záluží,Zdravotní středisko;Záluží,Důl Julius IV;0.857142857;3
+Most,rozcestí Kopisty;Most,sídliště ČD;0.857142857;40
+Janov,sportovní hala;Janov,Krušnohor;0.862068966;15
+Zahražany;Gymnázium;0.864583333;17
+Pod Lajsníkem;Krym;0.866666667;5
+Hamr,sídliště;Hamr,škola;0.868421053;15
+Za Krematoriem;Tenisové kurty;0.872340426;16
+Hamr;Janov,škola;0.872389791;13
+Litvínov,Máj,věžové domy;Litvínov,náměstí Míru;0.875;27
+Litvínov,poliklinika;Litvínov,Technické služby;0.897196262;4
+Záluží,Petrochemie;Záluží,areál Hlubina;0.9;40
+Záluží,Důl Julius IV;Most,rozcestí Kopisty;0.923076923;1
+Horní Lom;Loučná;0.923076923;60
+Zázvorová;Vtelenská;0.928571429;5
+Kahan;Aquadrom;0.929824561;25
+Most,sportovní hala;Most,zimní stadion;0.930909091;4
+Most,zimní stadion;Most,Souš;0.94047619;4
+Meziboří,penziony;Meziboří,kulturní dům;0.944827586;23
+Most,obchodní dům PRIOR;Most,sportovní hala;0.945945946;4
+Pod Lajsníkem;Rudolická,MUS;0.952380952;20
+Most,zimní stadion;Most,sportovní hala;0.968888889;4
+Litvínov,u dílen;Litvínov,stadion;0.976744186;4
+Litvínov,náměstí Míru;Litvínov,nádraží;0.97815534;13
+Most,Severografia;Most,Velebudická;0.991071429;2
+Most,Velebudická;Most,Velebudická škola;1;1
+Litvínov,nádraží;Litvínov,Báňské stavby;1;3
+Most,rozcestí Kopisty;Záluží,Důl Julius IV;1;3
+Záluží,areál Hlubina;Litvínov,Báňské stavby;1;3
+Speciální škola;Nádraží;1;10
+Kahan;Zd.Štěpánka;1;12
+Lom,Červený kříž;Lom,náměstí;1;13
+1.náměstí;Obchodní dům PRIOR;1;17
+Souš,Tvrzova;Autodrom;1;22
+Most,zimní stadion;Most,sportovní hala;1;40
+Most,sportovní hala;Most,zimní stadion;1;40
+Aquadrom;10.ZŠ;1;51
+Litvínov,Citadela;Litvínov,sportovní škola;1;60
+Osek,autokempink;Osek,náměstí;1;60
+Litvínov,Máj,věžové domy;Litvínov,náměstí Míru;1.005102041;14
+Souš,Národního odboje;Souš,Tvrzova;1.025974026;22
+Most,sídliště ČD;Most,rozcestí Kopisty;1.029411765;1
+Litvínov,Partyzán;Litvínov,poliklinika;1.040816327;23
+Litvínov,Krušnohor;Litvínov,Máj,věžové domy;1.045454545;14
+Litvínov,Technické služby;Litvínov,poliklinika;1.046875;4
+Zázvorová;Vtelenská;1.05;5
+Sever;Okresní soud;1.05;16
+Most,Souš;Most,sídliště ČD;1.065934066;4
+Meziboří,kulturní dům;Meziboří,stadion;1.070707071;23
+Litvínov,náměstí Míru;Litvínov,Máj,věžové domy;1.096774194;15
+Litvínov,stadion;Litvínov,Technické služby;1.097087379;4
+Hamr;Hamr,sídliště;1.1;15
+Velebudice,škola;Ovocné sady;1.1;25
+Litvínov,Báňské stavby;Záluží,areál Hlubina;1.105263158;3
+Okresní soud;Sukova,blok 508;1.105263158;22
+Okresní soud;Obchodní dům PRIOR;1.108695652;12
+Most,zimní stadion;Most,TESCO;1.111111111;40
+Horní Lom;Litvínov,Koldům;1.12244898;13
+Dům peněžnictví;Aquadrom;1.125;53
+Hamr;Janov,škola;1.133333333;15
+Litvínov,Chudeřín;Litvínov,požární stanice;1.133333333;15
+Souš,Finské domky;Souš,Národního odboje;1.136363636;12
+Osek,Národní dům;Osek,Hrdlovská;1.136363636;13
+Lom,náměstí;Lom,městský hřbitov;1.137254902;13
+Litvínov,poliklinika;Litvínov,obchodní dům;1.137440758;4
+1.náměstí;Halasova;1.142857143;16
+Litvínov,náměstí Míru;Litvínov,nádraží;1.155172414;15
+Ovocné sady;Benedikt;1.158878505;25
+Most,zimní stadion;Most,sportovní hala;1.172043011;2
+Litvínov,požární stanice;Litvínov,Chudeřín;1.182795699;13
+Most,nádraží;Most,TESCO;1.196078431;2
+Litvínov,obchodní dům;Litvínov,nádraží;1.200729927;4
+Černice,mlékárna;H.Jiřetín,u nádraží;1.214285714;14
+Autodrom;Pod Resslem;1.25;22
+Janov,blok D3;Janov,sportovní hala;1.25;60
+Most,rozcestí Kopisty;Záluží,Důl Julius IV;1.264705882;4
+Nemocnice;1.ZŠ;1.281437126;30
+Tenisové kurty;Průběžná;1.304347826;16
+Aquadrom;Kahan;1.326815642;30
+Most,sídliště ČD;Most,rozcestí Kopisty;1.330188679;4
+Průběžná;Pod Městským hřbitovem;1.333333333;16
+H.Jiřetín, P.Holého;H.Jiřetín,požární zbrojnice;1.333333333;28
+1.náměstí;Halasova;1.358381503;16
+D.Jiřetín,odb.Centrum;D.Jiřetín,hornická kolonie;1.363636364;12
+Litvínov,Janáčkova;Litvínov,Chudeřín;1.367088608;13
+Litvínov,Máj;Litvínov,mototechna;1.375;60
+Meziboří,městský úřad;Meziboří,penziony;1.382978723;23
+Jezero Most;Kostelní hřbitov;1.4;16
+Hamr,sídliště;Hamr;1.424242424;15
+Litvínov,Máj,věžové domy;Litvínov,náměstí Míru;1.43220339;15
+Staré krematorium;Nové krematorium;1.474576271;16
+Litvínov,Citadela;Litvínov,u dílen;1.5;1
+Most,sídliště ČD;Most,Souš;1.5;40
+Janov,škola;Janov,blok D3;1.5;60
+Aquadrom;Kahan;1.523809524;25
+Záluží,CHEMOPETROL;D.Jiřetín,odb.Centrum;1.542857143;12
+Litvínov,Chudeřín;Litvínov,Janáčkova;1.549019608;13
+Litvínov,požární stanice;Litvínov,Krušnohor;1.593220339;14
+Litvínov,poliklinika;Litvínov,obchodní dům;1.6;3
+Záluží,areál Hlubina;Litvínov,Báňské stavby;1.615384615;1
+Hamr;Janov,pekárny;1.615384615;14
+Most,1. náměstí;Most,obchodní dům PRIOR;1.64;4
+Litvínov,Chudeřín;Litvínov,Janáčkova;1.666666667;15
+Děkanský kostel;RICO;1.666666667;16
+Litvínov,Chudeřín;Litvínov,požární stanice;1.670588235;13
+Pod Resslem;1.ZŠ;1.684210526;12
+Osek,Hrdlovská;Osek,autokempink;1.689655172;13
+Litvínov,sportovní škola;Litvínov,mototechna;1.714285714;60
+Janov,konečná;Janov,sportovní hala;1.715277778;13
+Záluží,Petrochemie;Záluží,areál Hlubina;1.729323308;4
+Most,rozcestí Kopisty;Most,sídliště ČD;1.777777778;3
+Velebudice,škola;Speciální škola;1.8;10
+Litvínov,Báňské stavby;Litvínov,nádraží;1.819047619;4
+Janov,škola;Janov,blok D3;1.85483871;13
+Vtelno;Benedikt;1.942857143;25
+Janov,sportovní hala;Janov,blok D3;1.943396226;13
+Janov,škola;Hamr;1.947368421;13
+Záluží,areál Hlubina;Záluží,CHEMOPETROL;2;40
+Krym;Pod Lajsníkem;2;53
+Rudolická,MUS;Nádraží;2;53
+Osek,náměstí;Osek,zbrojnice;2;60
+H.Jiřetín,rozcestí;Janov;2.015873016;14
+Osek,náměstí;Osek,Národní dům;2.054054054;13
+Hamr;Hamr,sídliště;2.064516129;13
+Záluží,areál Hlubina;Litvínov,Báňské stavby;2.087209302;4
+Litvínov,Citadela;Litvínov,u dílen;2.2;4
+D.Jiřetín,odb.Centrum;Záluží,CHEMOPETROL;2.2;12
+Hamr,sídliště;Hamr,škola;2.2;13
+Litvínov,požární stanice;Litvínov,Bílý sloup;2.255681818;13
+Most,sportovní hala;Most,obchodní dům PRIOR;2.28;4
+Most,Dopravní podnik;Most,Čs.mládeže;2.285714286;1
+Janov;Janov,pekárny;2.384615385;14
+Záluží,Petrochemie;Záluží,CHEMOPETROL;2.387755102;4
+Janov,blok D3;Janov,škola;2.41025641;13
+Osek,kolonie;Osek,zbrojnice;2.5;13
+Skršín;Skršín,Chrámce;2.6;10
+Rudolická,MUS;Rudolice,rozcestí;2.666666667;53
+Záluží,areál Hlubina;Záluží,Petrochemie;2.714285714;3
+TESCO;Nádraží;2.8;16
+Zimní stadion;TESCO;2.875;16
+Litvínov,průmyslová zóna;Litvínov,Jiráskova;3;8
+Záluží,CHEMOPETROL;Záluží,Zdravotní středisko;3.047619048;3
+Kostelní hřbitov;Děkanský kostel;3.08;16
+D.Jiřetín,rozcestí;D.Jiřetín,odb.Centrum;3.166666667;12
+Sedlec,obec;Korozluky,obecní úřad;3.230769231;10
+Litvínov,3.ZŠ;Litvínov,Citadela;3.230769231;60
+Litvínov,nádraží;Litvínov,náměstí Míru;3.5;60
+Litvínov,požární stanice;Litvínov,Bílý sloup;3.666666667;60
+Janov,pekárny;Hamr;3.714285714;14
+Záluží, CHEMOPETROL;D.Jiřetín,odb.Centrum;3.780821918;12
+Janov,blok D3;Janov,sportovní hala;4;60
+Loučná;Loučná,konečná;4;60
+Děkanský kostel;Kostelní hřbitov;4.214285714;16
+Halasova;1.náměstí;4.533333333;25
+Most,Velebudická škola;;;1
+Most,Velebudická škola;;;2
+Litvínov,Citadela;;;3
+Ovocné sady;;;5
+Čepirohy,okály;;;9
+Skršín,Chrámce;;;10
+Zd.Štěpánka;;;12
+Souš,Finské domky;;;12
+Sukova,blok 558;;;12
+Horní Lom;;;13
+Lom,Horní Lom,rozcestí;;;13
+Černice,mlékárna;;;14
+Černice, mlékárna;;;14
+1.náměstí;;;17
+Gymnázium;;;17
+Pod Resslem;;;17
+Litvínov,Chudeřín;;;21
+Litvínov,Janáčkova;;;21
+Litvínov,požární stanice;;;21
+Litvínov,Bílý sloup;;;21
+Litvínov,Citadela;;;21
+Litvínov,Krušnohor;;;21
+Litvínov,Máj;;;21
+Litvínov,mototechna;;;21
+Janov,škola;;;21
+Loučná,konečná;;;21
+Meziboří,městský úřad;;;23
+Velebudická;;;25
+Obrnice,odb.Vtelno;;;25
+Bylany,DOMES;;;31
+Litvínov,Citadela;;;40
+Most,Chomutovská;;;40
+Most,Chomutovská;;;40
+Most,Velebudická;;;40
+Most,Velebudická škola;;;40
+1.náměstí;;;50
+Sportovní hala;;;50
+Speciální škola;;;50
+Nové krematorium;;;51
+Za Krematoriem;;;51
+Čepirohy,okály;;;51
+Čepirohy,okály;;;51
+Aquadrom;;;53
+Rudolice,náměstí;;;53
+Vtelno;;;53
+Zázvorová;;;53
+Sukova,blok 558;;;53
+Litvínov,Krušnohor;;;60
+Osek,Národní dům;;;60
+Litvínov,3.ZŠ;;;60
+Litvínov,Koldům;;;60
+Litvínov,Krušnohor;;;60
+Osek,Národní dům;;;60
+Janov,konečná;;;60
+Osek,Hrdlovská;;;60
+Janov,sportovní hala;;;60
+Janov,sportovní hala;;;60
+Litvínov,Máj;;;60
+Litvínov,Máj;;;60
+Litvínov,Máj,věžové domy;;;60
+Litvínov,Máj,věžové domy;;;60
